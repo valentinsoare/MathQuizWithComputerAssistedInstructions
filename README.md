@@ -33,33 +33,33 @@ From which type they will choose, a number of points will be set and added to pl
 
 ![game_output_main_menu][2]  
 
-:point_right: Register a player menu -> 
-
 <br>
+
+:point_right: Register a player menu ->
 
 ![register_a_player_menu][3]
 
-:point_right: Set/change player -> 
-
 <br>
+
+:point_right: Set/change player ->
 
 ![change_player][4]
 
-:point_right: Change difficulty with current player selected -> 
-
 <br>
+
+:point_right: Change difficulty with current player selected ->
 
 ![change_difficulty][5]
 
-:point_right: Multiplication question-> 
-
 <br>
+
+:point_right: Multiplication question->
 
 ![addition_question][6]
 
-:point_right: Printing the ranking system-> 
-
 <br>
+
+:point_right: Printing the ranking system->
 
 ![printing_ranking_system][7]
 
