@@ -1,5 +1,12 @@
 package io.mathquiz;
 
+import io.mathquiz.buildingmenuandsubmenu.ApplicationMenu;
+import io.mathquiz.createplayer.Player;
+import io.mathquiz.inputfromuser.CatchInputAndActOnIt;
+
+/**
+ * From here we are running the app and calling what we need.
+ */
 public class App {
     public static void main(String[] args) throws InterruptedException {
         String toLoop = "none";

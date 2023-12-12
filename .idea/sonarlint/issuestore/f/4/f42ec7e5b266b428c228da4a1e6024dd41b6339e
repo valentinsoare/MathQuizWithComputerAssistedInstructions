@@ -1,0 +1,25 @@
+
+‚
+java:S1192Ì"_Define a constant instead of duplicating this literal "ERROR no player is registered!" 3 times.(Æ£ûÀşÿÿÿÿ8×Ó¼ÿÅ1
+z
+java:S1192&"XDefine a constant instead of duplicating this literal "%n\033[31m%s%s\033[0m%n" 6 times.(†œ½Âúÿÿÿÿ8×Ó¼ÿÅ1
+l
+java:S1192°"NDefine a constant instead of duplicating this literal "\033[H\033[2J" 6 times.(Îœò—8×Ó¼ÿÅ1
+g
+java:S1192Ô"IDefine a constant instead of duplicating this literal "%n%s%s%n" 4 times.(Ççë8×Ó¼ÿÅ1
+`
+java:S2583‹"CChange this condition so that it does not always evaluate to "true"(¤æ˜?8áòáÿÅ1
+C
+java:S1659{"&Declare "lastname" on a separate line.(ü¿„ª8€ƒÍÿÅ1
+V
+java:S1172Ç"3Remove this unused method parameter "headerLength".(ü›¤øÿÿÿÿ8‚ƒÍÿÅ1
+p
+java:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(˜öóã8„ƒÍÿÅ1
+Q
+java:S1172ÿ"3Remove this unused method parameter "headerLength".(˜öóã8„ƒÍÿÅ1
+:
+java:S6205Ô"Remove this redundant block.(íÜøç8¥ÉİÿÅ1
+?
+java:S6205Ö"Remove this redundant block.(Ù¢Æıÿÿÿÿ8¥ÉİÿÅ1
+I
+java:S1659ô"+Declare "questionToAsk" on a separate line.(ß«ë8òòáÿÅ1
