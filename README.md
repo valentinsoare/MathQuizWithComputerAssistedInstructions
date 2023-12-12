@@ -29,32 +29,22 @@ From which type they will choose, a number of points will be set and added to pl
 
 ## :joystick: Game Output
 
-:point_right: Main menu from the game with no current player set:  
-
-![game_output_main_menu][2]
-
+:point_right: Main menu from the game with no current player set:
+![game_output_main_menu][2]  
 
 :point_right: Register a player menu:
-
 ![register_a_player_menu][3]
 
-
 :point_right: Set/change player:
-
 ![change_player][4]
 
 :point_right: Change difficulty with current player selected:
-
 ![change_difficulty][5]
 
-
 :point_right: Multiplication question:
-
 ![addition_question][6]
 
-
 :point_right: Printing the ranking system:
-
 ![printing_ranking_system][7]
 
 <br>
