@@ -63,6 +63,8 @@ From which type they will choose, a number of points will be set and added to pl
 
 ![printing_ranking_system][7]
 
+<br>
+
 :mag: To see the entire game please clone the repo and in case you'll like it, feel free to add some new features. Thanks!
 
 <br>
