@@ -98,6 +98,8 @@ public final class ApplicationSubMenu extends ApplicationMenu {
     public void prettyPrintOfMessageSubMenu() {
         String toBePrinted = String.join(", ", subMenuOptions.subList(0, subMenuOptions.size() - 1)) + " ";
 
+        System.out.printf("%s%s%n"," ".repeat(numberOfSpacesInFront), "-".repeat(getHeaderMessage().length() * 2));
+
         if (toBePrinted.isBlank()) {
             System.out.printf("%s%s %s%s", " ".repeat(numberOfSpacesInFront), messageForTheSubMenu, subMenuOptions.getLast(), ": ");
         } else {

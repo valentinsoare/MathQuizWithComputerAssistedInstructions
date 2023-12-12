@@ -209,7 +209,7 @@ public class ApplicationMenu {
                 System.out.printf("%s%s%-2s%s%s%n", " ".repeat(numberOfSpacesInFront), "[ ", (i + 1),  " ] ", options.get(i));
             }
 
-            System.out.printf("%n%s", "-".repeat(getHeaderMessage().length() * 2));
+            System.out.printf("%n%s%s"," ".repeat(numberOfSpacesInFront), "-".repeat(getHeaderMessage().length() * 2));
             System.out.printf("%n%s%s", " ".repeat(numberOfSpacesInFront), "please choose an option: ");
             valueToBeReturned = true;
         }
