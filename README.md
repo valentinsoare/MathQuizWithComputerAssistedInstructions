@@ -63,7 +63,6 @@ From which type they will choose, a number of points will be set and added to pl
 
 ![printing_ranking_system][7]
 
-<br>
 
 :mag: To see the entire game please clone the repo and in case you'll like it, feel free to add some new features. Thanks!
 
@@ -86,6 +85,13 @@ _Repo metadata_
 [![GitHub tag](https://img.shields.io/github/tag/valentinsoare/MathQuizWithComputerAssistedInstructions?include_prereleases=&sort=semver&color=green)](https://github.com/valentinsoare/MathQuizWithComputerAssistedInstructions/releases/)
 [![License](https://img.shields.io/badge/License-Apache-green)](#license)
 [![issues - MathQuizWithComputerAssistedInstructions](https://img.shields.io/github/issues/valentinsoare/MathQuizWithComputerAssistedInstructions)](https://github.com/valentinsoare/MathQuizWithComputerAssistedInstructions/issues)
+
+<br>
+
+:arrow_forward: Class dependencies
+
+[![class_dependencies](https://i.postimg.cc/QN7nZ45V/Screenshot-from-2023-12-13-02-32-40.png)](moviesondemand.io)
+
 
 
 ## License

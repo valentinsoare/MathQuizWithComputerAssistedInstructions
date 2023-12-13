@@ -3,8 +3,6 @@
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 R
 "src/main/java/io/mathquiz/App.java,c/1/c15538c2f1b4452cd466e669d085dffc4e7afb1e
-v
-Fsrc/main/java/io/mathquiz/buildingmenuandsubmenu/checks/Auxiliary.java,5/d/5dfab1cc3420cafddc469efadd504f0b0d1d0760
 _
 /src/main/java/io/mathquiz/checks/Auxiliary.java,b/7/b73eb0bcb8f248ac7fa1bbd6aa8c7f483b7a5295
 q
